@@ -1,0 +1,46 @@
+.image-card-style {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+
+  object-fit: cover;
+  box-shadow:3px 3px 2px rgba(0, 0, 0, 0.432);
+}
+.example-card {
+  width: 290px;
+  border-radius: 12px;
+  padding: 10px 30px 30px 20px
+}
+.card-home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-home-image {
+  margin-left: 10px;
+
+}
+.details-card-style {
+  margin-right: 10px;
+
+
+}
+.details-card-style h3 {
+  font-size: large;
+  font-weight: 500;
+
+}
+.details-card-style h4 {
+  font-size: large;
+  font-weight: 800;
+  text-align: right;
+
+}
+.blank-card-div {
+  flex: 1;
+}
+.progress-bar-card{
+  height: 8px;
+
+}
+

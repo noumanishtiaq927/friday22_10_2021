@@ -1,0 +1,24 @@
+.chart-card-two {
+display: flex;
+flex-wrap:wrap;
+margin:1vh 1vw;
+
+
+
+
+
+}
+.graph1{
+  flex:0.7
+}
+.graph1{
+  flex:0.3;
+
+}
+mat-card{
+  margin: 1vh .5vw;
+}
+
+
+
+
